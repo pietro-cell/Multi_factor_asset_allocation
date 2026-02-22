@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Dati 
+data/raw/*.csv
+data/processed/*.csv
+
+# VS Code
+.vscode/

@@ -1,0 +1,22 @@
+# --- Data Manipulation & Math ---
+pandas
+numpy
+scipy
+
+# --- Financial Data APIs ---
+yfinance
+pandas_datareader
+
+# --- Excel & Bloomberg Integration ---
+openpyxl
+lxml
+
+# --- Plotting & Visualization ---
+matplotlib
+plotly
+seaborn
+
+# --- Technical & Notebook Setup ---
+ipykernel
+requests
+beautifulsoup4
