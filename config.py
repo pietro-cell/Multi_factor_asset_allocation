@@ -9,7 +9,3 @@ WEIGHTS = {
     "value": 0.5,
     "momentum": 0.5
 }
-
-
-RAW_DATA_PATH = "data/raw/"
-PROCESSED_DATA_PATH = "data/processed/"
