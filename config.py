@@ -3,7 +3,7 @@ END_DATE = "2023-12-31"
 
 UNIVERSE = "S&P500"
 TOP_N = 10
-REBALANCE_FREQ = "BM"
+REBALANCE_FREQ = "BME"
 
 WEIGHTS = {
     "value": 0.5,
